@@ -6,7 +6,7 @@
   "author": {
     "name": "Your Name",
     "email": "test@example.com",
-    "url": "https://example.com/path/to/your/plugin"
+    "url": "https://github.com/wonknu/"
   },
   "main": "lib/index.js",
   "directories": {
@@ -22,8 +22,8 @@
   "standard": {
     "parser": "babel-eslint"
   },
-
-
+  "url": "https://github.com/wonknu/ignite-react-native-popin",
+  "repository": "wonknu/ignite-react-native-popin",
   "devDependencies": {
     "ava": "^0.18.2",
     "babel-eslint": "^7.1.1",
